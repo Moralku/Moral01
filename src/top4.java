@@ -5,7 +5,7 @@ public class top4 {
         int b = ++a*8;
 
         System.out.println(b);
-        char x = 'q';
+        char x = 'z';
         System.out.println(++x);
 
     }
