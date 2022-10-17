@@ -2,6 +2,9 @@ class cylinder{
     private int radius;
     private int height;
 
+    public cylinder() {
+    }
+
     public int getRadius() {
         return radius;
     }
